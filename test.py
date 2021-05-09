@@ -1,3 +1,4 @@
 a = 1
 b = 8
-print(a + 2*b)
+d = 12
+print(a + 2*b - d)
